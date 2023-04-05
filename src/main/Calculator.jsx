@@ -5,11 +5,6 @@ import Button from "../components/Button";
 import Display from "../components/Display";
 
 const Calculator = () => {
-  // const[displayValue, setDisplay] = useState('0');
-  // const[clearDisplay, setClearDisplay] = useState(false);
-  // const[operation, setOperation] = useState(null)
-  // const[values, setValues] = useState([0, 0])
-  // const[current, setCurrent] = useState(0)
 
   const defaultCalculatorDisplayValues = {
     displayValue: "0",
